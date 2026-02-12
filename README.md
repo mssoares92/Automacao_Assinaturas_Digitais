@@ -60,14 +60,14 @@ O algoritmo extrai as palavras principais do arquivo para busca.
    ```bash
    python fluxo_assinatura.py
 
-   🔗 𝗟𝗶𝗻𝗸𝘀 𝗲 𝗥𝗲𝗰𝘂𝗿𝘀𝗼𝘀:
 
-💻 ##𝗖𝗼𝗱𝗶𝗴𝗼 𝗱𝗼  𝗣𝗿𝗼𝗷𝗲𝘁𝗼:
 
-https://github.com/mssoares92/Automacao_Assinaturas_Digitais.git 
+   🔗 ##𝗟𝗶𝗻𝗸𝘀 𝗲 𝗥𝗲𝗰𝘂𝗿𝘀𝗼𝘀:
 
-🔌 ##𝗔𝗣𝗜 𝗖𝗮𝗶𝗹𝘂𝗻: https://api.cailun.com.br/login 
+💻 ###𝗖𝗼𝗱𝗶𝗴𝗼 𝗱𝗼  𝗣𝗿𝗼𝗷𝗲𝘁𝗼: https://github.com/mssoares92/Automacao_Assinaturas_Digitais.git 
 
-📚 ##𝗗𝗼𝗰𝘂𝗺𝗲𝗻𝘁𝗮ç𝗮̃𝗼 𝗧𝗲𝗰𝗻𝗶𝗰𝗮: https://cailun.zendesk.com/hc/pt-br/categories/46830316293139-Utiliza%C3%A7%C3%A3o-da-API
+🔌 ###𝗔𝗣𝗜 𝗖𝗮𝗶𝗹𝘂𝗻: https://api.cailun.com.br/login 
+
+📚 ###𝗗𝗼𝗰𝘂𝗺𝗲𝗻𝘁𝗮ç𝗮̃𝗼 𝗧𝗲𝗰𝗻𝗶𝗰𝗮: https://cailun.zendesk.com/hc/pt-br/categories/46830316293139-Utiliza%C3%A7%C3%A3o-da-API
 
 
